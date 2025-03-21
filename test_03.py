@@ -66,6 +66,7 @@ def findAllRecipes(recipes: list[str], ingredients: list[list[str]], supplies: l
 
     return res
 
+# NOTE: Still have to finish this one.
 
 def main() -> None:
     # print(findAllRecipes(recipes = ["bread"], ingredients = [["yeast","flour"]], supplies = ["yeast","flour","corn"])) # ["bread"]
